@@ -1,0 +1,19 @@
+{
+  "name": "cypress-automation-testing",
+  "version": "1.0.0",
+  "description": "Practice Cypress for automation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/fuzeless/cypress-automation-testing"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.5.0"
+  }
+}
