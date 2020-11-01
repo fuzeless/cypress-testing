@@ -688,7 +688,3 @@ describe('Email field check', () => {
     false,
   );
 })
-
-describe(' field check', () => {
-
-})
